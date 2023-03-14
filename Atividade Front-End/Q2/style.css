@@ -1,0 +1,28 @@
+body {
+    background-color: plum;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+  
+label, input {
+    display: block;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border-width: 1px;
+    font-size: 15px;
+}
+  
+button {
+    background-color: pink;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+}
+  
